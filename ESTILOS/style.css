@@ -1,0 +1,43 @@
+body{
+    background: rgb(166, 186, 228);
+    font-family: 'Noto Serif', serif
+    max-windth: 900px;
+margin: auto; 
+}
+
+nav{
+width:  100%;
+height: 100px;
+background-color: rgb(164, 168, 164);
+}
+nav ul li {
+list-style-type: note;
+display: inline-block; 
+transition: 08.s all;
+padding: 0px 20px;
+}
+
+nav ul li:hover{
+background-color: beige;
+}
+.img-logo{
+    width: 100px;
+    padding: 20px;
+}
+ nav ul{
+    padding-top: 20px;
+    display: inline-flex;
+ }
+ nav ul li a{
+    text-decoration:none;
+color:rgb(14, 14, 15);
+ }
+    
+   h2,figure, ul{
+    margin: 0;
+   } 
+   img{
+    max-width: 100%;
+   }
+   
+ 
